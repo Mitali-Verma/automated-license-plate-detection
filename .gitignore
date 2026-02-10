@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# Data
+data/*
+!data/README.md
+
+# Model weights
+*.pt
+*.h5
+*.ckpt
+
+# OS
+.DS_Store
+Thumbs.db
